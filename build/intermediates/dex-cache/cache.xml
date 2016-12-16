@@ -75,11 +75,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Mathews\AndroidStudioProjects\CameraApp\app\libs\core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\Mathews\AndroidStudioProjects\CameraApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.3.0_99b7b8339d784574c415b4eda1beadd81dae6245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Mathews\AndroidStudioProjects\CameraApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="65f4c99ba67f32ea1034fef7fe61181fa61e294b">
+        sha1="81b168dc3e5dc973a47bad48f6dd482aea0b40d6">
         <dex dex="C:\Users\Mathews\AndroidStudioProjects\CameraApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06ffcf6482f00bdc6c80e7f40ddc19a82ec4956d\classes.dex" />
     </item>
     <item
@@ -124,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="1634d89756f0aa95ec4948009a8fd86b6d3c02fb">
+        sha1="3fcc6deb7fba92c21982cbbf4c8ccc12edcdb51c">
         <dex dex="C:\Users\Mathews\AndroidStudioProjects\CameraApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f76c23c654ec55d07bb940e27bd26e3dd4c9b9b\classes.dex" />
     </item>
     <item
